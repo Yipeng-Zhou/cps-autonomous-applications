@@ -1,0 +1,7 @@
+<launch>
+	<group ns="exercise1">
+		<node pkg="exercise1" name="Publisher" type="Publisher" output="screen"/>
+	</group>
+</launch>
+
+

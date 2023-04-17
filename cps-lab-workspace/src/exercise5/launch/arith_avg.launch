@@ -1,0 +1,7 @@
+<launch>
+        <group ns="exercise5">
+                <node pkg="exercise5" name="arith_avg" type="arith_avg" output="screen"/>
+        </group>
+</launch>
+
+

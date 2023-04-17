@@ -1,0 +1,10 @@
+<launch>
+	<group ns="exercise7">
+                <node pkg="exercise7" name="arith_avg" type="arith_avg" output="screen"/>
+                <node pkg="exercise7" name="geo_avg" type="geo_avg" output="screen"/>
+                <node pkg="exercise7" name="har_avg" type="har_avg" output="screen"/>
+                <node pkg="exercise7" name="meadian" type="meadian" output="screen"/>
+		<node pkg="exercise7" name="result" type="result" output="screen"/>
+	</group>
+</launch>
+

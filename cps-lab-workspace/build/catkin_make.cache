@@ -1,0 +1,2 @@
+exercise1
+-DCATKIN_DEVEL_PREFIX=/home/cps-student-2/cps-lab-workspace/devel -DCMAKE_INSTALL_PREFIX=/home/cps-student-2/cps-lab-workspace/install -G Unix Makefiles

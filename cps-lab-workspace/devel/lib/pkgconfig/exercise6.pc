@@ -1,0 +1,8 @@
+prefix=/home/cps-student-2/cps-lab-workspace/devel
+
+Name: exercise6
+Description: Description of exercise6
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

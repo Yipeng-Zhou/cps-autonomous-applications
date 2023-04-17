@@ -1,0 +1,11 @@
+cd cps-lab-workspace
+source /opt/ros/melodic/setup.bash
+source devel/setup.bash
+cd src
+
+cd simulator
+source devel/setup.sh
+catkin_make
+roslaunch f110_simulator simulator.launch
+
+md5sum: 568001d3e3bd4188b346da0ef3e38aa0 

@@ -1,0 +1,6 @@
+<launch>
+        <group ns="exercise5">
+                <node pkg="exercise5" name="geo_avg" type="geo_avg" output="screen"/>
+        </group>
+</launch>
+

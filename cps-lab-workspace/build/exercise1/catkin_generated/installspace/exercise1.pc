@@ -1,0 +1,8 @@
+prefix=/home/cps-student-2/cps-lab-workspace/install
+
+Name: exercise1
+Description: Description of exercise1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

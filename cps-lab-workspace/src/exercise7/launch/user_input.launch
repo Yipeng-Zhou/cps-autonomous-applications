@@ -1,0 +1,7 @@
+<launch>
+	<group ns="exercise7">
+		<node pkg="exercise7" name="user_input" type="user_input" output="screen"/>
+	</group>
+</launch>
+
+

@@ -1,0 +1,7 @@
+<launch>
+        <group ns="exercise2">
+                <node pkg="exercise2" name="receiver" type="receiver" output="screen"/>
+        </group>
+</launch>
+
+

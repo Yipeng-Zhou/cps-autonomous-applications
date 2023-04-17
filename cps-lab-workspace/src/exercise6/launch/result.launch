@@ -1,0 +1,6 @@
+<launch>
+	<group ns="exercise6">
+		<node pkg="exercise6" name="result" type="result" output="screen"/>
+	</group>
+</launch>
+
